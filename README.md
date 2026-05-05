@@ -1,2 +1,2 @@
-# corp_dashboard_stock
-주가 확인 기능 추가
+# corp_dashboard
+상장사 및 비상장사 재무/이슈 데이터 기반 대시보드 생성 웹 페이지 코드
